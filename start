@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+#
+# Credits: @AccelGoodBasw
+# FROM File-Sharing-Man <https://github.com/mrismanaziz/telebot-js.git/>
+# t.me/CHoKepEnA & t.me/AccelGoodBase
+
+# start
+python3 main.py
